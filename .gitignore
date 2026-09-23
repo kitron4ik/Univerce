@@ -1,0 +1,16 @@
+# Зависимости
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Конфигурация IDE
+.vscode/
+.idea/
+*.suo
+*.user
